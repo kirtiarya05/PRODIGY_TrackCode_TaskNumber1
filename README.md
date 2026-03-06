@@ -132,13 +132,13 @@ These visualizations help analyze relationships between variables and model pred
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/kirtiarya05/PRODIGY_TrackCode_TaskNumber1.git
 ```
 
 ### 2️⃣ Navigate to the project directory
 
 ```bash
-cd house-price-prediction
+cd Task1
 ```
 
 ### 3️⃣ Install required libraries
@@ -150,7 +150,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ### 4️⃣ Run the project
 
 ```bash
-python house_price_model_full.py
+main.py
 ```
 
 ---
@@ -161,9 +161,8 @@ python house_price_model_full.py
 house-price-prediction
 │
 ├── train.csv
-├── house_price_model_full.py
+├── main.py
 ├── README.md
-└── requirements.txt
 ```
 
 ---

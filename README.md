@@ -1,7 +1,7 @@
 # PRODIGY_TrackCode_TaskNumber1
 # 🏠 House Price Prediction using Machine Learning
 
-This project builds a **House Price Prediction model** using Machine Learning techniques.  
+This project builds a **House Price Prediction model** using Machine Learning techniques. 
 The model predicts housing prices based on important property features such as living area, house quality, number of bathrooms, and garage capacity.
 
 This project was completed as part of my **Machine Learning Internship Task at Prodigy Infotech**.

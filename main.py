@@ -1,7 +1,3 @@
-# house_price_model_full.py
-# End-to-end ML pipeline for house price prediction
-# Linear + Ridge Regression with preprocessing and feature engineering
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

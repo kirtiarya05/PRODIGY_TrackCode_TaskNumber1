@@ -19,7 +19,6 @@ def load_data(path):
     print("Shape:", df.shape)
     return df
 
-
 # ------------------------------------------------
 # 2. Basic Exploration
 # ------------------------------------------------
